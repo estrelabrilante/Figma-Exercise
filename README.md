@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Shynu Mary Varghese
-- 👀 I’m interested in learning new programming languages, and I am currently enrolled in Mobile Solution Development, a 2 year Graduate certificate programme offered by Conestoga College Institute of Technology and Advanced Learning
-- 🌱 I’m currently learning Vue js and Android ,also, I  look forward for learning Node js 
-- 💞️ I’m looking to collaborate project where I can contribute my knowledge as well as improve my skill
-- 📫 Contact me by my Linkedln or Twitter .
+-Aspiring iOS developer, currently doing iOS and swift course  - The complete iOS App Development Bootcamp instructor by Dr Angela Yu. Also, I am learning Vue. js course instructor by Maximilian on Udemy. I have completed cybersecurity basics issued by edX and authorised by IBM. I believe, learning technical skills always helped me to think beyond my limit.
+
 
 <!---
 estrelabrilante/estrelabrilante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

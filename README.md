@@ -5,4 +5,6 @@ My Figma Exercise :
 4. https://www.figma.com/file/VD344QeWx5ChRLHy4hVSCR/Practice%3A-Cropping-(Copy)?node-id=0%3A1
 5. https://www.figma.com/file/JLcuvg2OsCCCKwAr7NG44h/Practice%3A-Overlapping-(Copy)?node-id=0%3A1
 6. https://www.figma.com/file/Y8R40U1uG0elJfQhIXqArU/Practice%3A-Tension-(Copy)?node-id=0%3A1
+7. https://www.figma.com/file/G1E6Cdk81ddXGtQjxqgg56/Practice%3A-Figma-Homepage-Design-(Copy)?node-id=0%3A1
+
 

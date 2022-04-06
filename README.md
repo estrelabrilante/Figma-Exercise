@@ -6,5 +6,6 @@ My Figma Exercise :
 5. https://www.figma.com/file/JLcuvg2OsCCCKwAr7NG44h/Practice%3A-Overlapping-(Copy)?node-id=0%3A1
 6. https://www.figma.com/file/Y8R40U1uG0elJfQhIXqArU/Practice%3A-Tension-(Copy)?node-id=0%3A1
 7. https://www.figma.com/file/G1E6Cdk81ddXGtQjxqgg56/Practice%3A-Figma-Homepage-Design-(Copy)?node-id=0%3A1
+8. https://www.figma.com/file/AQV8KyePuSULOSxOkZ3RDB/Practice%3A-Chat-App-Homepage-Design-(Copy)?node-id=107%3A2
 
 

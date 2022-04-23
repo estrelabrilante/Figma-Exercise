@@ -8,6 +8,8 @@ My Figma Exercise :
 7. https://www.figma.com/file/G1E6Cdk81ddXGtQjxqgg56/Practice%3A-Figma-Homepage-Design-(Copy)?node-id=0%3A1
 8. https://www.figma.com/file/AQV8KyePuSULOSxOkZ3RDB/Practice%3A-Chat-App-Homepage-Design-(Copy)?node-id=107%3A2
 9. https://www.figma.com/file/xSBiKff5fgFz3IBhKfVGIE/Wireframe-Kit-(Copy)-(Copy)?node-id=407%3A35
+10. https://www.figma.com/file/xSBiKff5fgFz3IBhKfVGIE/Wireframe-Kit-(Copy)-(Copy)?node-id=2798%3A335
+11. https://www.figma.com/file/xSBiKff5fgFz3IBhKfVGIE/Wireframe-Kit-(Copy)-(Copy)?node-id=2770%3A30
 Webflow Exercise: 
 1. https://preview.webflow.com/preview/chat-app-971f9d?utm_medium=preview_link&utm_source=designer&utm_content=chat-app-971f9d&preview=0b05effc8f442e879cd898e34c79feec&workflow=preview
 2. 

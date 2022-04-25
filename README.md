@@ -10,8 +10,5 @@ My Figma Exercise :
 9. https://www.figma.com/file/xSBiKff5fgFz3IBhKfVGIE/Wireframe-Kit-(Copy)-(Copy)?node-id=407%3A35
 10. https://www.figma.com/file/xSBiKff5fgFz3IBhKfVGIE/Wireframe-Kit-(Copy)-(Copy)?node-id=2798%3A335
 11. https://www.figma.com/file/xSBiKff5fgFz3IBhKfVGIE/Wireframe-Kit-(Copy)-(Copy)?node-id=2770%3A30
-Webflow Exercise: 
-1. https://preview.webflow.com/preview/chat-app-971f9d?utm_medium=preview_link&utm_source=designer&utm_content=chat-app-971f9d&preview=0b05effc8f442e879cd898e34c79feec&workflow=preview
-2. https://preview.webflow.com/preview/team-app-blog-page-post-page-home-page?utm_medium=preview_link&utm_source=designer&utm_content=team-app-blog-page-post-page-home-page&preview=785ff969d9e5162e7984797600cf92e2&workflow=preview
 
 
